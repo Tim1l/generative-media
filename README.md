@@ -2,13 +2,23 @@
 
 # Generative Media & GPU Workflows
 
-**Image LoRA · Visual consistency · Image-to-video · Voice and audio · GPU deployment**
+**End-to-end image, video, and audio production · Image LoRA · GPU workflows**
 
-I develop generative-media workflows for AI products and content production, combining model selection, image LoRA training, generation, quality review, and GPU infrastructure with creative direction.
+I develop end-to-end generative-media workflows for AI products and content production: from model and workflow selection through image, video, and audio generation to quality review, postprocessing, and final delivery. My work combines creative direction with hands-on engineering and GPU infrastructure.
+
+I maintain a curated collection of models and workflows for a broad range of generation tasks, subjects, styles, and output formats. I select and adapt the appropriate tools around each project's brief, quality requirements, hardware, and budget.
 
 [Discuss a project on Upwork](https://www.upwork.com/freelancers/~01d554f7011bd884f2) · [LinkedIn](https://www.linkedin.com/in/tim-izmailov-a53524283/)
 
 *The cover is conceptual artwork for this portfolio. Client identities and production assets remain confidential.*
+
+## End-to-End Production
+
+- **Define the result:** interpret the brief, references, style, and delivery requirements.
+- **Select models and workflows:** choose suitable tools for image, video, and audio tasks, including image LoRA where appropriate.
+- **Set up and generate:** configure the GPU environment, run generation, and refine the output.
+- **Review and finish:** evaluate quality, correct artifacts, edit, and combine visual and audio material.
+- **Prepare delivery:** produce the required formats, subtitles or language versions, and hand over the agreed workflow or finished assets.
 
 ## What I Build
 
@@ -52,6 +62,7 @@ Working code, training data, weights, generation graphs, configuration details, 
 
 ## Work With Me
 
+- **End-to-end media production:** build and adapt a complete workflow for image, video, and audio generation through final delivery.
 - **Image LoRA and visual consistency:** prepare data and configure a workflow around a character or style.
 - **Generative content production:** develop and refine photo, short-video, and voice material for a defined brief.
 - **GPU workflow setup:** select suitable models and hardware, configure the environment, and investigate performance or quality problems.
