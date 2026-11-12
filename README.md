@@ -16,6 +16,17 @@ As **CTO of a confidential AI product**, I owned AI engineering across conversat
 
 The challenge was to bring image, video and voice generation into the product with consistent requirements for behavior, visual quality, latency and GPU resources. I selected models and hardware, developed and refined generation components, investigated defects, established quality checks, and coordinated integration with backend and design teams.
 
+![Animated illustration: fire crosses a frame and reveals the path from brief to delivery](images/beyond-the-frame-v1.gif)
+
+<details>
+<summary><strong>Open the workshop — from your brief to delivery</strong></summary>
+
+![From your brief through direction, creation and refinement to finished media or your own production workflow](images/workshop-process-v1.svg)
+
+The first step is to agree on the result, delivery formats and review criteria.
+
+</details>
+
 ## Get Finished Media
 
 For a campaign, character, product or content brief:

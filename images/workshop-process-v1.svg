@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="600" viewBox="0 0 1280 600" role="img" aria-labelledby="title desc">
+  <title id="title">From your brief to finished media or your own production workflow</title>
+  <desc id="desc">Four agreed stages: Your brief, Direction, Create and refine, and Handover. Handover leads to ready-to-use media or a configured workflow with practical handover.</desc>
+  <defs>
+    <linearGradient id="route" x1="80" y1="263" x2="1050" y2="263" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffad63"/>
+      <stop offset="0.62" stop-color="#d4aa82"/>
+      <stop offset="1" stop-color="#b7d9c3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="600" rx="8" fill="#101820"/>
+  <rect x="0.5" y="0.5" width="1279" height="599" rx="7.5" fill="none" stroke="#2c3b45"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="55" fill="#a4b3bd" font-size="13" letter-spacing="2.4">THE WORKSHOP</text>
+    <text x="1208" y="55" text-anchor="end" fill="#a4b3bd" font-size="13" letter-spacing="1.2">ONE BRIEF. TWO WAYS TO WORK.</text>
+    <text x="72" y="113" fill="#f1f0e8" font-size="36" letter-spacing="-0.8">A clear route from idea to handover.</text>
+    <path d="M72 151H1208" fill="none" stroke="#2c3b45"/>
+
+    <g fill="#f1f0e8" font-size="32" letter-spacing="-0.6">
+      <text x="72" y="222">Your brief</text>
+      <text x="362" y="222">Direction</text>
+      <text x="652" y="222">Create &amp; refine</text>
+      <text x="978" y="222">Handover</text>
+    </g>
+
+    <path d="M80 263H1050" stroke="url(#route)" stroke-width="2" fill="none"/>
+    <g fill="#101820" stroke-width="1.5">
+      <circle cx="80" cy="263" r="18" stroke="#ffad63"/>
+      <circle cx="370" cy="263" r="18" stroke="#efbc8e"/>
+      <circle cx="660" cy="263" r="18" stroke="#d4c5a5"/>
+      <circle cx="1050" cy="263" r="18" stroke="#b7d9c3"/>
+    </g>
+    <g text-anchor="middle" font-size="12" font-weight="700" letter-spacing="0.8">
+      <text x="80" y="267.5" fill="#ffad63">01</text>
+      <text x="370" y="267.5" fill="#efbc8e">02</text>
+      <text x="660" y="267.5" fill="#d4c5a5">03</text>
+      <text x="1050" y="267.5" fill="#b7d9c3">04</text>
+    </g>
+
+    <g fill="#aebdc6" font-size="21">
+      <text x="72" y="311">Goal</text>
+      <text x="72" y="341">References</text>
+      <text x="72" y="371">Formats</text>
+      <text x="362" y="311">Look</text>
+      <text x="362" y="341">Models</text>
+      <text x="362" y="371">Hardware</text>
+      <text x="652" y="311">Generate</text>
+      <text x="652" y="341">Review</text>
+      <text x="652" y="371">Correct</text>
+    </g>
+
+    <path d="M1050 281V357Q1050 385 1022 385H849Q827 385 827 407V432" fill="none" stroke="#6f9888" stroke-width="1.5"/>
+    <path d="M1050 385H1126Q1148 385 1148 407V432" fill="none" stroke="#6f9888" stroke-width="1.5"/>
+    <circle cx="827" cy="432" r="4" fill="#b7d9c3"/>
+    <circle cx="1148" cy="432" r="4" fill="#b7d9c3"/>
+
+    <g fill="#d7eadf" font-size="28" letter-spacing="-0.4">
+      <text x="720" y="484">Finished media</text>
+      <text x="1000" y="484">Your workflow</text>
+    </g>
+    <g fill="#aebdc6" font-size="20">
+      <text x="720" y="519">Ready-to-use assets</text>
+      <text x="1000" y="519">Configured setup +</text>
+      <text x="1000" y="546">practical handover</text>
+    </g>
+    <path d="M72 450H596" fill="none" stroke="#2c3b45"/>
+    <text x="72" y="485" fill="#82949f" font-size="15" letter-spacing="0.2">Scope and delivery agreed around your brief.</text>
+  </g>
+</svg>
