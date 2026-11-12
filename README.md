@@ -1,4 +1,4 @@
-![Your idea to ready media — an animated concept presentation](images/your-idea-ready-media-v2.gif)
+![Dragon attacking a castle — an animated fantasy cover](images/dragon-castle-loop-v1.gif)
 
 # Generative Media — Photo, Video & Voice
 
@@ -8,7 +8,7 @@ I handle model selection, GPU setup, generation, refinement and delivery. I draw
 
 **Choose your starting point:** [Get finished media](#get-finished-media) · [Build my production workflow](#build-my-production-workflow)
 
-*An illustrated service overview using an independent fictional campaign concept. [Still version](images/your-idea-ready-media-v2-poster.png) · [MP4 version](images/your-idea-ready-media-v2.mp4)*
+*Independent AI-generated fantasy artwork, animated as a looping cover. [Still version](images/dragon-castle-loop-v1-poster.png) · [MP4 version](images/dragon-castle-loop-v1.mp4)*
 
 ## Building the AI Side of a Product
 
